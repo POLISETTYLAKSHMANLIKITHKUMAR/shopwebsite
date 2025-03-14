@@ -1,1 +1,1 @@
-# shopwebsite
+A Shop Website 🛍️ using HTML & CSS enables **Create** (Add Products ✨), **Read** (View Products 📖), **Update** (Edit Details 🔄), and **Delete** (Remove Items 🗑️) functionalities. HTML structures the content 🏗️, while CSS styles it beautifully 🎨, ensuring a responsive and user-friendly shopping experience 🚀.
